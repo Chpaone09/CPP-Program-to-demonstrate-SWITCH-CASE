@@ -29,7 +29,7 @@ int main(){
         case 4: break;
         default:cout<<"\n\n\t You picked wrong choice !";break;
         }
-        cout<<"\n\n\t to continue press 0 ?>> ";
+        cout<<"\n\n\t to continue press 0 >> ";
         cin>>ch;
     }while(ch !=4 || ch == 0);
 }
